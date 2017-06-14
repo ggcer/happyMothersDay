@@ -164,6 +164,6 @@ $(document).ready(function($) {
     ]
 
     //home弹幕开始
-    $('#home').pop(json, 30);
+    //$('#home').pop(json, 30);
 
 });
